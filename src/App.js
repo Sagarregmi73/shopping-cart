@@ -7,10 +7,8 @@ import Checkout from './components/checkout';
 function App() {
   
   return (
-    <div>
-     
-      
-<Switch>
+    <div>     
+    <Switch>
       <Route exact path="/" component={Home} />
       <Route exact path="/about" component={About} />
       <Route exact path="/checkout" component={Checkout} />
