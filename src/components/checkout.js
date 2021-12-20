@@ -65,7 +65,6 @@ const Checkout=()=>{
   
   <NavLink to="/">Go Back Home</NavLink>
 </div>
-
         </form>
         
         </div>
