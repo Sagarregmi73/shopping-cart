@@ -63,7 +63,6 @@ const Bucket=(props)=>{
         )}
 
 
-
         </div>
     );
 }
