@@ -1,7 +1,7 @@
 import React from 'react';
 import Product from './product';
 const Main=(props)=>{
-    
+   
     const {data,onAdd}=props;
     return(
         <div>
