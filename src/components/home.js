@@ -41,6 +41,7 @@ const Home=()=>{
         }
       };
 
+    
     return(
         <div>
  <Header data={cartItems} />
